@@ -2,8 +2,3 @@ my
 dog changed!
 change again
 is pretty
-
-
-
-
-new added line in master
